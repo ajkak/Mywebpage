@@ -1,0 +1,283 @@
+
+   
+
+    header.hed{
+        
+        border: 1px solid black;
+        color:black;
+        background-color:#CD853F;
+        
+        position: relative;
+        height: 150px;
+        border: 3px solid black;
+        }
+    
+    img.ajayw{
+         float:left;
+                  
+    }
+    h.aj{
+        text-align: center;
+        font-size: 40px;
+        position: relative;
+        top: 30px;
+        right:50px;
+        display: block;
+       
+    }
+    h1.ino{
+        text-align: center;
+        font-size: 20px;
+        position: relative;
+        top: 30px;
+        right:50px;
+        display: block;
+    }
+
+    img.ajay{
+        float: right;
+        padding:0px;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+               
+    }
+
+    div.headbuttons{
+        border: 2px solid black;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: lightblue;
+    padding: 8px;
+    }
+
+   a.home{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.about{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.contactme{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.tech{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.inspi{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.edu{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   a.sign{
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+   
+
+   
+
+   #abtaja{
+       text-align: left;
+        font-size: 30px;
+        position: relative;
+        top: -10px;
+        right:0px;
+        display: block;
+   }
+   #calevn{
+       text-align: right;
+        font-size: 30px;
+        position: relative;
+        top: -70px;
+        right:300px;
+        display: block;
+   }
+
+
+
+    video.video1{
+        position: relative;
+        top: -25px;
+        left: 130px;
+        border: solid;
+
+    }
+
+    h1.cal{
+        position: relative;
+        top: 15px;
+        right: 0px;
+        border: solid;
+        float: right;
+        padding: 190px 200px 70px 200px;
+        
+    }
+
+    div.videocalendar{
+        border: 2px solid black; 
+        background-color: #c9c6c3;
+        position: relative;
+        top: -80px;
+        padding: 30px;
+    }
+
+    h2.event{
+        border: inset;
+    }
+
+    div.photos{
+        position: relative;
+        top: -20px;
+        left: 40px;
+        border: solid;
+        float: left;
+        padding: 200px 400px 120px 400px;
+
+    }
+
+    div.formok{
+        position: relative;
+        top: -20px;
+        left: 0px;
+        border: solid;
+        float: right;
+        padding: 0px 0px 86px 20px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+    }
+
+    #posts{
+        position: relative;
+        top: -40px;
+        left: 0px;
+        right: 0px;
+        border: solid;
+        float: left;
+        border-radius: 5px;
+        padding: 0px 700px 500px;
+        
+        
+    }
+
+    div.footer{
+        float: left;
+        border: outset;
+        border-radius: 5px;
+        position: relative;
+        top: -60px;
+        padding: 0px 700px 0px;
+        width: 240px;
+        background-color:#CD853F; 
+        
+    }
+    
+    p.copy{
+    
+    	text-align: left;
+    	border: 1px solid;
+    	margin-right: 70px;
+    	margin-left: 0px;
+    	position: relative;
+    	left: 20px;
+    	
+    }
+   
+   p.con{
+   		text-align: left;
+   		border: 1px solid;
+   		padding: px 0px 0px;
+    }
+   
+   
+	div.ajaycontent{
+
+		
+		overflow: auto;
+		
+	}
+		
+	img.imgg{
+		border: 2px solid black;
+		border-radius: 5px;
+		float: left;
+	}
+	
+    div.para{
+    	border: 2px solid black;
+    	border-radius: 5px;
+    	height: 720px;
+    	margin-top: 0px;
+	    margin-bottom: 0px;
+	    margin-right: 0px;
+	    margin-left: 332px;
+	    padding-left: 10px;
+    }
+    
+    #content{
+    	position: relative;
+    	margin-top: 0px;
+	    margin-bottom: 0px;
+	    margin-right: 0px;
+	    margin-left: 700px;
+	    padding-left: 10px;
+	    
+    }
+
+	div.userlogin{
+		margin-top: 0px;
+	    margin-bottom: 0px;
+	    margin-right: 0px;
+	    margin-left: 700px;
+	    padding-left: 10px;
+	}
+    
+   #fs{
+   		padding: 20px;
+   }
+    
+    
+    
+        
